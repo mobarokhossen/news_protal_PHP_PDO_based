@@ -1,4 +1,10 @@
-# news_protal_PHP_PDO_based is PHP PDO based demo work.
+# PHP PDO based demo work.
 
-# I want to do back end code only.
-# Add/ edit/ delete 
+Requirement: 
+Build a news portal website using php pdo.
+Admin can add / edit / update / delete news.
+
+
+This is a demo work. 
+
+# Please leave a comment.  
